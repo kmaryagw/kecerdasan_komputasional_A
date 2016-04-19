@@ -1,0 +1,1 @@
+# kecerdasan_komputasional_A
