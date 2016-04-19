@@ -13,4 +13,4 @@ Cara menjalankan program :
 * Download folder JavaAplication1 dan open project
 * Nilai awal parameter miu adalah 10, lamda adalah 1*miu dan maksimal generasi adalah 200
 * Run program
-* Hasil akan ditampilkan pada colsole output. Individu dengan nilai fitness terbaik akan ditampilkan
+* Hasil akan ditampilkan pada console output. Individu dengan nilai fitness terbaik akan ditampilkan
